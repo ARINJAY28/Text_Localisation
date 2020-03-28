@@ -1,5 +1,5 @@
 # Text_Localisation
-Using OpenCV and PyTesseract to localose text in scanned images such as invoice, reciepts, agreements
+Using OpenCV and PyTesseract to localise text in scanned images such as invoice, reciepts, agreements
 ## Usage
 Create a folder in Root_Directory to store test images<br>
 Then, in command line execute the following commands, based on requirement<br>
